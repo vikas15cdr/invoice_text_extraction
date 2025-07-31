@@ -1,0 +1,26 @@
+{
+  "INVOICE_NUMBER": "81978187",
+  "INVOICE_DATE": "01/17/2013",
+  "SELLER_NAME": "Client",
+  "TOTAL_AMOUNT": "113,45",
+  "LINE_ITEMS": [
+    {
+      "item_no": "1",
+      "description": "Wine Bottle Holder\"",
+      "quantity": "5.00",
+      "unit_price": "reach",
+      "total": "10,75"
+    },
+    {
+      "item_no": "2",
+      "description": "Cuisinart Stainless Steel Electric",
+      "quantity": "3,00",
+      "unit_price": "each",
+      "total": "19,9.0"
+    }
+  ],
+  "OCR_QUALITY": {
+    "average_confidence": 0.9311059160666032,
+    "lowest_confidence": 0.5381696224212646
+  }
+}

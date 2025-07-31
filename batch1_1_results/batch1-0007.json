@@ -1,0 +1,40 @@
+{
+  "INVOICE_NUMBER": "11580833",
+  "INVOICE_DATE": "11/24/2019",
+  "SELLER_NAME": "Client",
+  "TOTAL_AMOUNT": "4671,23",
+  "LINE_ITEMS": [
+    {
+      "item_no": "2",
+      "description": "DellDesktopComputerIntel",
+      "quantity": "3,00",
+      "unit_price": "each",
+      "total": "69.95."
+    },
+    {
+      "item_no": "4",
+      "description": "Vintage Microsolutions Pentium.",
+      "quantity": "lO0'E",
+      "unit_price": "reach",
+      "total": "390,00"
+    },
+    {
+      "item_no": "6",
+      "description": "Custom.Gaming PC.Computer",
+      "quantity": "1,00",
+      "unit_price": "reach",
+      "total": "449,99"
+    },
+    {
+      "item_no": "7",
+      "description": "Custom Build HP Desktop.",
+      "quantity": "2,00",
+      "unit_price": "teach",
+      "total": "329,00"
+    }
+  ],
+  "OCR_QUALITY": {
+    "average_confidence": 0.927312362079437,
+    "lowest_confidence": 0.5609918236732483
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "INVOICE_NUMBER": "12847181",
+  "SELLER_NAME": "Client",
+  "TOTAL_AMOUNT": "6236,77",
+  "LINE_ITEMS": [
+    {
+      "item_no": "2",
+      "description": "CUSTOM BUILT AMD RYZEN",
+      "quantity": "3,00",
+      "unit_price": "each",
+      "total": "1400,00"
+    }
+  ],
+  "OCR_QUALITY": {
+    "average_confidence": 0.9369652626060304,
+    "lowest_confidence": 0.7359949350357056
+  }
+}

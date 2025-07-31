@@ -1,0 +1,26 @@
+{
+  "INVOICE_NUMBER": "74589240",
+  "INVOICE_DATE": "12/08/2013",
+  "SELLER_NAME": "Client",
+  "TOTAL_AMOUNT": "11794,44",
+  "LINE_ITEMS": [
+    {
+      "item_no": "2",
+      "description": "New Golden.Brown Oriental Rug.",
+      "quantity": "5,00",
+      "unit_price": "each",
+      "total": "232,65"
+    },
+    {
+      "item_no": "4",
+      "description": "Pretty Woman Small Large Long",
+      "quantity": "00",
+      "unit_price": "reach",
+      "total": "36,30"
+    }
+  ],
+  "OCR_QUALITY": {
+    "average_confidence": 0.9149028452237448,
+    "lowest_confidence": 0.5418558120727539
+  }
+}

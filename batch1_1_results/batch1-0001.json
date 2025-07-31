@@ -1,0 +1,39 @@
+{
+  "INVOICE_NUMBER": "51109338",
+  "SELLER_NAME": "Client",
+  "TOTAL_AMOUNT": "5",
+  "LINE_ITEMS": [
+    {
+      "item_no": "2",
+      "description": "HP T520 Thin Client Computer",
+      "quantity": "5,00",
+      "unit_price": "each",
+      "total": "37/75."
+    },
+    {
+      "item_no": "3",
+      "description": "gaming pc<desktop.computer.",
+      "quantity": "(1,00)",
+      "unit_price": "reach",
+      "total": "400,00"
+    },
+    {
+      "item_no": "5",
+      "description": "Custom Build Dell Optiplex 9020",
+      "quantity": "5,00",
+      "unit_price": "reach",
+      "total": "221,99"
+    },
+    {
+      "item_no": "6",
+      "description": "Dell Optiplex 990 MT Computer.",
+      "quantity": "4,00",
+      "unit_price": "'each",
+      "total": "269,95"
+    }
+  ],
+  "OCR_QUALITY": {
+    "average_confidence": 0.9214323614407511,
+    "lowest_confidence": 0.5202319025993347
+  }
+}

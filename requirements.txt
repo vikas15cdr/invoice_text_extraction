@@ -1,0 +1,10 @@
+paddleocr>=2.6
+paddlepaddle>=2.4.0
+transformers>=4.26.0
+torch>=1.13.0
+opencv-python>=4.6.0
+pillow>=9.3.0
+numpy>=1.23.0
+huggingface-hub>=0.11.0
+python-dotenv>=0.21.0
+pathlib>=1.0.1

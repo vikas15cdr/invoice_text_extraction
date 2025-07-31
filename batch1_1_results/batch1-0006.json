@@ -1,0 +1,39 @@
+{
+  "INVOICE_NUMBER": "72128555",
+  "INVOICE_DATE": "12/25/2013",
+  "SELLER_NAME": "Client",
+  "LINE_ITEMS": [
+    {
+      "item_no": "2",
+      "description": "Sasinowski M-Legacy.Of:Ra",
+      "quantity": "1,00",
+      "unit_price": "reach",
+      "total": "19:40"
+    },
+    {
+      "item_no": "3",
+      "description": "Time LifeBooks:The Old West.",
+      "quantity": "3,00",
+      "unit_price": "reach",
+      "total": "139,95"
+    },
+    {
+      "item_no": "4",
+      "description": "Jumbling by Caela Carter.",
+      "quantity": "3,00",
+      "unit_price": "each",
+      "total": "4:49"
+    },
+    {
+      "item_no": "5",
+      "description": "How to Win Friend's & influence,",
+      "quantity": "2,00",
+      "unit_price": "each",
+      "total": "6,62"
+    }
+  ],
+  "OCR_QUALITY": {
+    "average_confidence": 0.9335044421255588,
+    "lowest_confidence": 0.5918899178504944
+  }
+}

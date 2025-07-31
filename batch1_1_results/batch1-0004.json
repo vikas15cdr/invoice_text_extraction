@@ -1,0 +1,25 @@
+{
+  "INVOICE_NUMBER": "16273983",
+  "SELLER_NAME": "Client",
+  "TOTAL_AMOUNT": "744,60",
+  "LINE_ITEMS": [
+    {
+      "item_no": "2",
+      "description": "Rug White Moroccan'Beni",
+      "quantity": "2,00",
+      "unit_price": "each",
+      "total": "245,00"
+    },
+    {
+      "item_no": "5",
+      "description": "1pc Exquisite Durable.Foot",
+      "quantity": "2,00",
+      "unit_price": "teach",
+      "total": "15.57"
+    }
+  ],
+  "OCR_QUALITY": {
+    "average_confidence": 0.9313265482584635,
+    "lowest_confidence": 0.5904597043991089
+  }
+}

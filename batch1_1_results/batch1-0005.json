@@ -1,0 +1,47 @@
+{
+  "INVOICE_NUMBER": "89969473",
+  "INVOICE_DATE": "10/29/2016",
+  "SELLER_NAME": "Client",
+  "TOTAL_AMOUNT": "725,37",
+  "LINE_ITEMS": [
+    {
+      "item_no": "1",
+      "description": "Wild West Wine",
+      "quantity": "2,00",
+      "unit_price": "reach",
+      "total": "27.00"
+    },
+    {
+      "item_no": "2",
+      "description": "Press Wine 15L Fruit Cider.",
+      "quantity": "2,00",
+      "unit_price": "each",
+      "total": "279,00"
+    },
+    {
+      "item_no": "3",
+      "description": "Wine Rack Holder Tron:Art",
+      "quantity": "3,00",
+      "unit_price": "reach",
+      "total": "18.75"
+    },
+    {
+      "item_no": "4",
+      "description": "Rust ProofThree Rows Tool",
+      "quantity": "2,00",
+      "unit_price": "each",
+      "total": "11,56"
+    },
+    {
+      "item_no": "5",
+      "description": "VTG 1970s.MCM:BrownSteell",
+      "quantity": "1,00",
+      "unit_price": "leach",
+      "total": "34:00"
+    }
+  ],
+  "OCR_QUALITY": {
+    "average_confidence": 0.9359850675560707,
+    "lowest_confidence": 0.5549758672714233
+  }
+}
